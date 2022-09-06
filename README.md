@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DeFi Development**
 
-- 🌱 I’m currently learning **React, Hardhat**
+- 🌱 I’m currently learning **React, Solidity, Ether.JS and Hardhat**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
